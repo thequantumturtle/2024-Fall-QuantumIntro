@@ -1,6 +1,6 @@
 ---
 week: 2
-day: August 30
+day: August 28
 title: One Qubit is Better Than no Qubit
 # tags: [Qubit, Circle Notation, Bloch Sphere]
 ---
