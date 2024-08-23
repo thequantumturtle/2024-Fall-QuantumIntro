@@ -47,8 +47,7 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 [**Day 4**](syllabus/4-Teleportation.html) (09/09): Quantum Teleportation  
 [**Day 5**](syllabus/5-BB84.html) (09/11): BB84  
 [**Day 6**](syllabus/6-Arithmetic.html) (09/16): Quantum Arithmetic and Logic 
-[**Day 7**](syllabus/7-Amp-Amp.html) (09/18): Universal Gates  
-
+[**Day 7**](syllabus/7-Amp-Amp.html) (09/18): Universal Gates
 [**Day 8**](syllabus/7-Amp-Amp.html) (09/23): Amplitude Amplification  
 [**Day 9**](syllabus/11-Quantum-Search.html) (09/25): Quantum Search  
 [**Day 10**](syllabus/8-QFT.html) (09/30): QFT: Quantum Fourier Transform  
