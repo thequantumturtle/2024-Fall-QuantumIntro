@@ -14,7 +14,7 @@ Recitation: Fridays (Zoom Only)
 Joshmin Ray
 
 ## Location
-Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/98486345862?pwd=ZUp3V3FyRlB4TklYL2FxKzJ2eXFnZz09). I encourage you to come to class and use Zoom as a fallback option.
+Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/95699056238). I encourage you to come to class and use Zoom as a fallback option.
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
